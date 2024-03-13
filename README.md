@@ -1,26 +1,26 @@
-- 👋 Hi, I’m @martian58
+# 👋 Hi, I’m @martian58
 
-Hi there 👋
-👨‍💻 About Me :
+I'm a college student majoring in Computer Science.
 
-I am currently a college student majoring in Computer Science
-🛠️ Skills :
-Programming languages
-Python   Go  Javascript Bash php   C  C++  HTML  CSS 
-Got experience with
+## 👨‍💻 About Me
 
-    Web dev: Html/Css/Javascript
-    Database Systems: Oracle Database, SQLite, Mysql
-    GUI frameworks: Qt, Tkinter
-    Web backend: Django, Flask, PHP
-    Fundamentals of Computer Networks: Network Design, TCP/IP, Routing
+I am currently pursuing my degree in Computer Science and have a passion for programming and technology.
 
-🔥 My Stats :
+## 🛠️ Skills
 
-GitHub Streak
+- Programming languages: Python, Go, JavaScript, Bash, PHP, C, C++
+- Web Development: HTML, CSS, JavaScript
+- Database Systems: Oracle Database, SQLite, MySQL
+- GUI Frameworks: Qt, Tkinter
+- Web Backend: Django, Flask, PHP
+- Fundamentals of Computer Networks: Network Design, TCP/IP, Routing
 
-Top Langs
-<!---
-martian58/martian58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔥 My Stats
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martian58)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martian58&layout=compact)
