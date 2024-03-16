@@ -24,6 +24,6 @@ I'm a University student majoring in Computer Science and have a passion for pro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martian58&layout=compact)
 
 ### Tryhackme
-<script src="https://tryhackme.com/badge/2713066"></script>
-[![TryHackMe](https://tryhackme.com/badge/2713066)
+
+[![TryHackMe](https://tryhackme.com/badge/2713066)](https://tryhackme.com/p/martian58)
 
