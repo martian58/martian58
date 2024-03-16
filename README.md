@@ -7,13 +7,14 @@ I'm a University student majoring in Computer Science and have a passion for pro
 ## 🛠️ Skills
 
 - Programming languages: Python, Go, JavaScript, Bash, PHP, C, C++
--![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Go](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg)
-![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"> <!-- Python -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="50" height="50"> <!-- Go -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50"> <!-- JavaScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50"> <!-- Bash -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50"> <!-- PHP -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50"> <!-- C -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50"> <!-- C++ -->
+
 
 - Web Development: HTML, CSS, JavaScript
 - Database Systems: Oracle Database, SQLite, MySQL
