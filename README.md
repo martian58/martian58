@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @martian58
 
-I'm a college student majoring in Computer Science.
-
 ## 👨‍💻 About Me
 
-I am currently pursuing my degree in Computer Science and have a passion for programming and technology.
+I'm a University student majoring in Computer Science and have a passion for programming and cybersecurity.
 
 ## 🛠️ Skills
 
@@ -24,3 +22,6 @@ I am currently pursuing my degree in Computer Science and have a passion for pro
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martian58&layout=compact)
+
+### Tryhackme
+<script src="https://tryhackme.com/badge/2713066"></script>
