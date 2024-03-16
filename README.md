@@ -7,6 +7,7 @@ I'm a University student majoring in Computer Science and have a passion for pro
 ## 🛠️ Skills
 
 - Programming languages: Python, Go, JavaScript, Bash, PHP, C, C++
+- :python: :golang: :javascript: :bash: :php: :c: :cpp:
 - Web Development: HTML, CSS, JavaScript
 - Database Systems: Oracle Database, SQLite, MySQL
 - GUI Frameworks: Qt, Tkinter
