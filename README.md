@@ -25,5 +25,5 @@ I'm a University student majoring in Computer Science and have a passion for pro
 
 ### Tryhackme
 
-[![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/martian58.png" alt="TryHackMe">)](https://tryhackme.com/p/martian58)
+[![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/martian58.png" alt="TryHackMe">)]
 
