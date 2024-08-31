@@ -17,7 +17,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=martian58&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=martian58&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 ### Top Languages
