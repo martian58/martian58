@@ -28,11 +28,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 
 ---
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=martian58&theme=react-dark&hide_border=true&area=true)
-
----
-
 ## 🧑‍💻 TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/martian58.png" alt="TryHackMe Badge">
 
