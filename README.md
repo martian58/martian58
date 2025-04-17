@@ -53,6 +53,9 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=martian58&label=Profile%20Views&color=1&icon=0&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Visitor Badge](https://shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/martian58/visits)
+
 
 
 
