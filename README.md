@@ -4,6 +4,7 @@ Hi, I’m **@martian58**! 👋
 I'm a University student majoring in **Computer Science** with a deep passion for **programming** and **cybersecurity**.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -52,8 +53,4 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
-![Visitor Badge](https://shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/martian58/visits)
-
-
-
 
