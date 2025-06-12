@@ -48,7 +48,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 
 ---
 
-
 ## 🌐 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martian58) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martian58)
 
